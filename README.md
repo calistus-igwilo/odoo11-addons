@@ -6,6 +6,7 @@ Custom modules for Odoo11
   <li>Download module to Odoo addons folder</li>
   <li>Unzip the module</li>
 </ul>
+
 # Install
 <ul>
 <li>Logon to the Odoo instance (acount must have administrator "settings" priviledge")</li>
